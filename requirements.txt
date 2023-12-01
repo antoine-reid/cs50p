@@ -1,0 +1,3 @@
+# List of pip-installable packages required for this project
+tabulate
+types-tabulate
