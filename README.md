@@ -43,7 +43,7 @@ One such example would be the key of D major, which requires two sharp notes, to
 
 ## Minor Scales
 
-Not all scales are Major scales however. A lot of interesting music is written using the Minor scale instead.  The logic is exactly as exlained above, but using different intervals between the notes.
+Not all scales are Major scales however. A lot of interesting music is written using the Minor scale instead.  The logic is exactly as explained above, but using different intervals between the notes.
 
 ### Natural Minor Scale
 
